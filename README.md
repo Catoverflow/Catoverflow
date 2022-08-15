@@ -9,3 +9,5 @@ Vector Database
 ## Todo
 
 Merriam-Webster Cli wrapper
+
+Get a grasp of distribution and/or blockchain related topics & projects
