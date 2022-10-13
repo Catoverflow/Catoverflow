@@ -4,8 +4,8 @@ Undergraduate at USTC (2019-2023) -> North America (2023-)
 
 ## Research Topics
 
-Vector Database
+Optimization on Vector Database
 
 ## Todo
 
-Get a grasp of distribution and/or blockchain related topics & projects
+Get a grasp of distributed franeworks and/or blockchain related topics & projects
