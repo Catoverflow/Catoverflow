@@ -9,3 +9,5 @@ Optimization on Vector Database
 ## Todo
 
 Get a grasp of distributed franeworks and/or blockchain related topics & projects
+
+Make contribution graph green :3
