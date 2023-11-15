@@ -2,14 +2,11 @@
 
 Undergraduate at USTC (2019-2023) -> ~~Canada (2023-)~~ JP/US (applying)
 
-## Research Topics
+I have a long-forgotten [blog](https://c-j.dev).
 
-~~Optimization on Vector Database~~
-Still applying for doctoral programs
+## Research Stuffs
 
-## Interested Topics
-
-PL, Distributed Systems, OS, Networking Systems
+Check my [academic profile](https://cathy-cai.page)
 
 ## Todo
 
