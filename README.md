@@ -18,4 +18,4 @@ Make contribution graph green :3
 
 **VBASE-artifacts**:
 
-The artifacts repo is intended only for verification for our paper *VBASE*, please check [microsoft/MSVBASE](https://github.com/) for reviewed version.
+The artifacts repo is intended only for verification for our paper *VBASE*, please check [microsoft/MSVBASE](https://github.com/microsoft/MSVBASE) for reviewed version.
