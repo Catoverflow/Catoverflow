@@ -1,7 +1,6 @@
 ## About
 
-Undergraduate at USTC (2019-2023) -> ~~Canada (2023-)~~ JP/US (applying)
-
+Undergraduate at USTC (2019-2023) -> JP/US
 I have a long-forgotten [blog](https://c-j.dev).
 
 ## Research Stuffs
