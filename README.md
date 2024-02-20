@@ -1,7 +1,8 @@
 ## About
 
-Undergraduate at USTC (2019-2023) -> JP/US
-I have a long-forgotten [blog](https://c-j.dev).
+USTC CS undergrad (2019-2023) -> UIUC CS PhD (2024-)
+
+I have a <s>long-forgotten</s> [blog](https://c-j.dev). We are rebuilding it.
 
 ## Research Stuffs
 
