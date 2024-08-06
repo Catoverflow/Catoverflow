@@ -10,7 +10,7 @@ Check my [academic profile](https://cathy-cai.page)
 
 ## Todo
 
-Get a grasp of distributed franeworks and/or blockchain related topics & projects
+Get a grasp of distributed frameworks and/or blockchain related topics & projects
 
 Make contribution graph green :3
 
