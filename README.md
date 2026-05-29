@@ -1,6 +1,6 @@
 ## About
 
-USTC CS undergrad (2019-2023) -- gapped for a year -> UIUC CS PhD (2024-)
+USTC CS undergrad (2019-2023) -- gapped for a year -> UIUC CS PhD (2024-) | Amazon AWS (intern) (2026)
 
 I have a <s>long-forgotten</s> [blog](https://c-j.dev). We are rebuilding it.
 
